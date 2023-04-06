@@ -1,0 +1,12 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\bin\Debug\netcoreapp3.1\WelcomeScreen.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\Basic_C#_Program\WelcomeScreen\WelcomeScreen\obj\Debug\netcoreapp3.1\WelcomeScreen.genruntimeconfig.cache
