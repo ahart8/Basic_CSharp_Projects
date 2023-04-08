@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\netcoreapp3.1\DailyReportAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.genruntimeconfig.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\netcoreapp3.1\DailyReportAssignment.csproj.AssemblyReference.cache
