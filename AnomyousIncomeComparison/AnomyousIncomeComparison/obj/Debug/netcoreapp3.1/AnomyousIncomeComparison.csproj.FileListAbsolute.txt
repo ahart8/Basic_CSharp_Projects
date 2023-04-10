@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\bin\Debug\netcoreapp3.1\AnomyousIncomeComparison.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\AnomyousIncomeComparison\AnomyousIncomeComparison\obj\Debug\netcoreapp3.1\AnomyousIncomeComparison.genruntimeconfig.cache
