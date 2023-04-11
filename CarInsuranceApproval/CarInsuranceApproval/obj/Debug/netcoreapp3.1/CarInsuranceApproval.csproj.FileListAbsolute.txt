@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.genruntimeconfig.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\netcoreapp3.1\CarInsuranceApproval.csproj.AssemblyReference.cache

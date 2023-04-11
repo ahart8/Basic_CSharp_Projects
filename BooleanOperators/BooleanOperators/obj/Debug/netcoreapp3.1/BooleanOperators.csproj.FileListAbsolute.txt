@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.genruntimeconfig.cache
