@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\bin\Debug\netcoreapp3.1\BranchingPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\BranchingPractice\BranchingPractice\obj\Debug\netcoreapp3.1\BranchingPractice.genruntimeconfig.cache
