@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\bin\Debug\netcoreapp3.1\StringsPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\StringsPractice\StringsPractice\obj\Debug\netcoreapp3.1\StringsPractice.genruntimeconfig.cache
