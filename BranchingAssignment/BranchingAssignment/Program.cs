@@ -16,11 +16,13 @@ namespace BranchingAssignment
 
             //Check the weight if it is greater than 100 dispay messsage for too heavy. Then exit the program
             //How do I check for null here. If you hit the enter key you get an error
-            if (weight > 100)
+            if (weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadKey();
                 System.Environment.Exit(0);
             }
+
             //Get the width
             Console.Write("Please enter the package width: ");
             double width = Convert.ToDouble(Console.ReadLine());
@@ -33,17 +35,22 @@ namespace BranchingAssignment
             Console.Write("Please enter the package length: ");
             double length = Convert.ToDouble(Console.ReadLine());
 
-            //Multiply w*h*l check to see if it greater than 100 if it is display message else display quote
-            double dimensions = width * height * length;
-            if (dimensions > 100)
+            //Add w*h*l check to see if it greater than 50 if it is display message else display quote
+            double dimensions = width + height + length;
+            if (dimensions > 50)
             {
                 Console.Write("Package too big to be shipped via Package Express.");
+                Console.ReadKey();
                 System.Environment.Exit(0);
-            }
-             else if (dimensions <= 100)
-            {
 
-                Console.WriteLine("Your estimated total for shipping this package is:" + dimensions / 100);
+            }
+             else if (dimensions <= 50)
+            {
+                //If the total dimensions is less than 50, multiply the three dimensions (w,h,l) together and multiple the product by the weight then divde by 100
+                double quote = (width * height * length) * weight / 100;
+                Console.WriteLine("Your estimated total for shipping this package is: " + quote);
+                Console.ReadKey();
+                System.Environment.Exit(0);
             }
         }
     }
