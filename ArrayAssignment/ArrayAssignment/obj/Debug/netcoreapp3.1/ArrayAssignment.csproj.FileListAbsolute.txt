@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.genruntimeconfig.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.AssemblyReference.cache

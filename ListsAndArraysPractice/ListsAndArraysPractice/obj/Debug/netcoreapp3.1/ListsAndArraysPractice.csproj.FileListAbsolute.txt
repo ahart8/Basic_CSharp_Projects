@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\bin\Debug\netcoreapp3.1\ListsAndArraysPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ListsAndArraysPractice\ListsAndArraysPractice\obj\Debug\netcoreapp3.1\ListsAndArraysPractice.genruntimeconfig.cache
