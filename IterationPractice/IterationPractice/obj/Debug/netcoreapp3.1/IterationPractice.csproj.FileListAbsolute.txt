@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\bin\Debug\netcoreapp3.1\IterationPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\IterationPractice\IterationPractice\obj\Debug\netcoreapp3.1\IterationPractice.genruntimeconfig.cache

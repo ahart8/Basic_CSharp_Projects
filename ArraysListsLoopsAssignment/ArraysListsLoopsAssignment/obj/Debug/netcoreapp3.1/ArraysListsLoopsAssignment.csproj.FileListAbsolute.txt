@@ -1,0 +1,13 @@
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.csproj.AssemblyReference.cache
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.AssemblyInfo.cs
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.exe
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.deps.json
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.runtimeconfig.json
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.runtimeconfig.dev.json
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.dll
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\bin\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.pdb
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.dll
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.pdb
+C:\Users\amy\source\repos\ArraysListsLoopsAssignment\ArraysListsLoopsAssignment\obj\Debug\netcoreapp3.1\ArraysListsLoopsAssignment.genruntimeconfig.cache
