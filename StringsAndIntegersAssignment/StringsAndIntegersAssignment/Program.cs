@@ -35,7 +35,6 @@ namespace StringsAndIntegersAssignment
             catch (Exception ex)
             {
                 Console.WriteLine(ex);
-               
             }
             finally
             {
