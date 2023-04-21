@@ -16,7 +16,7 @@ namespace MainMethodSubmissionAssignement
             return result;
         }
         //This method takes in a decimal and returns an integer
-        public float addFive(decimal num)
+        public int addFive(decimal num)
         {
             int x = 0;
             int y = 0;
@@ -29,7 +29,7 @@ namespace MainMethodSubmissionAssignement
             return result;
         }
 
-        public string modular(string num)
+        public int addFive(string num)
         {
             int x = 0;
             int result = 0;
@@ -37,7 +37,7 @@ namespace MainMethodSubmissionAssignement
             int y = Convert.ToInt32(num);
 
             result = x % y;
-            return result.ToString();
+            return result;
         }
     }
 }

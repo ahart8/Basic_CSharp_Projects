@@ -4,7 +4,7 @@ namespace MainMethodSubmissionAssignement
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //Instanciate the calcaulate class
             Calculate number = new Calculate();
@@ -16,8 +16,8 @@ namespace MainMethodSubmissionAssignement
 
             //Call each method and pass the input. Convert the input to int,decimal and string for each of the methods
             int answer1 = number.addFive(Convert.ToInt32(numberEntered));
-            float answer2 = number.addFive(Convert.ToDecimal(numberEntered));
-            string answer3 = number.modular(numberEntered);
+            int answer2 = number.addFive(Convert.ToDecimal(numberEntered));
+            int answer3 = number.addFive(numberEntered);
 
 
             //Display the returned integer to the screen
