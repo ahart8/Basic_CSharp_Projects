@@ -12,7 +12,7 @@ namespace VoidMethodAssignment
             AddTwoNumbers myNumbers = new AddTwoNumbers();
 
             //Call the method in the class specifying the parameters by name
-            myNumbers.myMethod(x,y);
+            myNumbers.myMethod(x: x, y:y);
             Console.ReadLine();
         }
     }
