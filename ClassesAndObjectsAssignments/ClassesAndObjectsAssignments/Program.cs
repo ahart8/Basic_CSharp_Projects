@@ -19,7 +19,7 @@ namespace ClassesAndObjectsAssignments
             numberEntered= Convert.ToInt32(Console.ReadLine());
 
             //Call each method and pass the input 
-            int answer1=number.addFive(numberEntered);
+            int answer1 = number.addFive(numberEntered);
             int answer2 = number.multiplyByTwo(numberEntered);
             int answer3 = number.modular(numberEntered);
 
