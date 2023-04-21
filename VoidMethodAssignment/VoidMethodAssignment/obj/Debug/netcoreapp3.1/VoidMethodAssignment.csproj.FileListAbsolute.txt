@@ -1,0 +1,13 @@
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.exe
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.deps.json
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.runtimeconfig.json
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.runtimeconfig.dev.json
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.dll
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\bin\Debug\netcoreapp3.1\VoidMethodAssignment.pdb
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.AssemblyInfo.cs
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.dll
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.pdb
+C:\Users\amy\source\repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\netcoreapp3.1\VoidMethodAssignment.genruntimeconfig.cache
