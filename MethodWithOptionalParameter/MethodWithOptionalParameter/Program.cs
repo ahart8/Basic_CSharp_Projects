@@ -6,14 +6,14 @@ namespace MethodWithOptionalParameter
     {
         static void Main(string[] args)
         {
-
-               Console.WriteLine("Please enter 2 numbers. The first an entry is not required for the second number");
-
-            try
-            {
+            
+            
+                Console.WriteLine("Please enter 2 numbers. The first an entry is not required for the second number");
                 Console.WriteLine("Enter the first number: ");
                 int firstNumber = Convert.ToInt32(Console.ReadLine());
-
+            
+            try
+            {
                 Console.WriteLine("Enter the second number: ");
                 int secondNumber = Convert.ToInt32(Console.ReadLine());
 
@@ -25,20 +25,21 @@ namespace MethodWithOptionalParameter
             }
             catch (FormatException ex)
             {
-                //I am trying to do something like this but it appears that the variables are not is scope in the catch block
-                //I do not understand how to call the method and use the optional parameter when the user enters nothing
+                OptionialParameter optionalParameter = new OptionialParameter();
                 optionalParameter.addTwoNumbers(firstNumber);
                 Console.ReadLine();
-                
+                Console.ReadLine();
+                return;
             }
-
+          
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
+
             finally
             {
-              
+               
                 Console.ReadLine();
             }
 
