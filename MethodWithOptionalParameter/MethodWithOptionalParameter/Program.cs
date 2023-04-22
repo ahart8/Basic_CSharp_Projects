@@ -25,7 +25,9 @@ namespace MethodWithOptionalParameter
             }
             catch (FormatException ex)
             {
-                
+                //I am trying to do something like this but it appears that the variables are not is scope in the catch block
+                //I do not understand how to call the method and use the optional parameter when the user enters nothing
+                optionalParameter.addTwoNumbers(firstNumber);
                 Console.ReadLine();
                 
             }
