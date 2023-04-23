@@ -11,8 +11,9 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            int timesSuffled = 0;
-            deck = Shuffle(deck, out timesSuffled ,3);
+            
+            //We are calling the method shuffle on itself. The shufffle methed is a method of the deck object. Calling the method on a object of that class
+            deck.Shuffle(3);
            
             
 
@@ -21,31 +22,11 @@ namespace TwentyOne
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times shuffled {0}", timesSuffled);
-            Console.ReadLine();
+             Console.ReadLine();
         }
 
-        public static Deck Shuffle(Deck deck, out int timesShuffled, int times=1)
-        {
-            timesShuffled = 0;
-            //Setting the default for times makes it an optional parameter
-            for (int i = 0; i < times; i++)
-            {
-
-                timesShuffled++;
-                List<Card> TempList = new List<Card>();
-                Random random = new Random();
-
-                while (deck.Cards.Count > 0)
-                {
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomIndex]);
-                    deck.Cards.RemoveAt(randomIndex);
-                }
-                deck.Cards = TempList;
-            }
-            return deck;
-        }
+       
+        
         //Overload method use when there are a lot of parameters or when using an api
         //public static Deck Shuffle(Deck deck, int times)
         //{ 

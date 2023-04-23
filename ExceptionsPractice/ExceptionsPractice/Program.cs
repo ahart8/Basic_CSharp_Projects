@@ -21,7 +21,7 @@ namespace ExceptionsPractice
             {
                 Console.WriteLine("Please enter a whole number");
                 Console.ReadLine();
-                return;
+                
             }
             catch(DivideByZeroException ex)
             {

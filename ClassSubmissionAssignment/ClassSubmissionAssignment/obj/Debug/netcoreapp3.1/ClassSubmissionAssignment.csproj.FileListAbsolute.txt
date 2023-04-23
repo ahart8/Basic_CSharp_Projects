@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.genruntimeconfig.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.csproj.AssemblyReference.cache
