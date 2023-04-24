@@ -10,12 +10,17 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
+            //Object initialization with values
+            //Card card = new Card() { Face = "King", Suit = "Spades" };
+            Game game = new Game(){Dealer="Amy",Name="TwentyOne"};
+            game.Dealer = "Jesse";
+            game.Name = "TwentyOne";
             Deck deck = new Deck();
             
             //We are calling the method shuffle on itself. The shufffle methed is a method of the deck object. Calling the method on a object of that class
             deck.Shuffle(3);
-           
-            
+       
 
             foreach( Card card in deck.Cards)
             {

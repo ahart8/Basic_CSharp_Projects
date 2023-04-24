@@ -5,7 +5,7 @@ using System.Text;
 namespace ClassSubmissionAssignment
 {
     //Declair a class to be static
-    class StaticClass
+   static class StaticClass
     {        
         static int multiplyTwoNumbers(int x,int y)
         {
