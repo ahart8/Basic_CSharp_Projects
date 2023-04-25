@@ -1,17 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Threading;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
-        //Properties
+        //Properties - base or abstract class make is so the class is not longer able to be instantiated
         public List<string> Players { get; set; } 
         public string Name { get; set; } //Name of the game
         public string Dealer { get; set; }
-
-        public void ListPlayers()
+     //Abstrack method statest that any method inheriting this class must use this method or it will not compile
+        public abstract void Play();
+        
+        //This method gets inherited but can be overridded
+        public virtual void ListPlayers()
         {
             //Looping thru the Players property
             foreach (string player in Players)
