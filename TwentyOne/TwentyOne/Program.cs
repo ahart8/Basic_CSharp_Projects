@@ -12,13 +12,18 @@ namespace TwentyOne
         {
 
             //Object initialization with values
-            //Card card = new Card() { Face = "King", Suit = "Spades" };
-            Game game = new Game(){Dealer="Amy",Name="TwentyOne"};
-            game.Dealer = "Jesse";
-            game.Name = "TwentyOne";
+           // Card card = new Card() { Face = "King", Suit = "Spades" };
+            //TwentyOneGame game =new TwentyOneGame();
+            //game.Players = new List<string>() { "Amy", "Buddy", "River" };
+            //game.ListPlayers();
+            //Console.ReadLine();
+            // game.Play();
+
+
+
             Deck deck = new Deck();
             
-            //We are calling the method shuffle on itself. The shufffle methed is a method of the deck object. Calling the method on a object of that class
+            //we are calling the method shuffle on itself. the shufffle methed is a method of the deck object. calling the method on a object of that class
             deck.Shuffle(3);
        
 

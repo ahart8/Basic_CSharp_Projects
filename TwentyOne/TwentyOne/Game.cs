@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOne
 {
-    class Game
+    public class Game
     {
         //Properties
         public List<string> Players { get; set; } 
