@@ -1,0 +1,12 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.genruntimeconfig.cache
