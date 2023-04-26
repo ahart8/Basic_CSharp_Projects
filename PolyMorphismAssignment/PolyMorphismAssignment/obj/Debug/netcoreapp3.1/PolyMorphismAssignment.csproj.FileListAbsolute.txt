@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\netcoreapp3.1\PolyMorphismAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\netcoreapp3.1\PolyMorphismAssignment.genruntimeconfig.cache
