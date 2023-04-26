@@ -9,7 +9,7 @@ namespace TwentyOne
     public abstract class Game
     {
         //Properties - base or abstract class make is so the class is not longer able to be instantiated
-        public List<string> Players { get; set; } 
+        public List<Player> Players { get; set; } 
         public string Name { get; set; } //Name of the game
         public string Dealer { get; set; }
      //Abstrack method statest that any method inheriting this class must use this method or it will not compile
@@ -19,9 +19,9 @@ namespace TwentyOne
         public virtual void ListPlayers()
         {
             //Looping thru the Players property
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
            

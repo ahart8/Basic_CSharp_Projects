@@ -24,22 +24,28 @@ namespace TwentyOne
             //TwentyOneGame game = new TwentyOneGame();
             // games.Add(game);
 
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players =new List<string>() { "Amy", "Buddy", "River" };
-            game.ListPlayers();
-            Console.ReadLine();
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players =new List<string>() { "Amy", "Buddy", "River" };
+            //game.ListPlayers();
+            //Console.ReadLine();
 
-
-            //Deck deck = new Deck();
-            ////we are calling the method shuffle on itself. the shufffle methed is a method of the deck object. calling the method on a object of that class
-            //deck.Shuffle(3);
+            Game game = new TwentyOneGame();
+            //Lists have to be instantiated in order to be able to use them
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Amy";
+            game += player;
+            game -=player;
+            Deck deck = new Deck();
+            //we are calling the method shuffle on itself. the shufffle methed is a method of the deck object. calling the method on a object of //that class
+            deck.Shuffle(3);
        
-            //foreach( Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            // Console.ReadLine();
+           foreach( Card card in deck.Cards)
+            {
+            Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+          Console.WriteLine(deck.Cards.Count);
+          Console.ReadLine();
         }
 
        
