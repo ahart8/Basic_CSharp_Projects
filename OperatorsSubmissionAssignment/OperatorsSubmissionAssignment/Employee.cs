@@ -13,21 +13,13 @@ namespace OperatorsSubmissionAssignment
 
         public static bool operator ==(Employee employee, Employee employee1)
         {
-            if (employee.employeeID.Equals(employee1.employeeID))
-            {
-                return true;
-            }
-            else
-                return false;
+            return employee.employeeID == employee1.employeeID;
         }
         public static bool operator !=(Employee employee, Employee employee1)
         {
-            if (employee.employeeID.Equals(employee1.employeeID))
-                return false;
-            else
-                return true;
+            return employee.employeeID != employee1.employeeID;
 
-          
+
         }
 
     }

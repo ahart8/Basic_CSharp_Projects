@@ -15,15 +15,15 @@ namespace TwentyOne
      //Abstrack method statest that any method inheriting this class must use this method or it will not compile
         public abstract void Play();
         
-        //This method gets inherited but can be overridded
-        public virtual void ListPlayers()
-        {
-            //Looping thru the Players property
-            foreach (Player player in Players)
-            {
-                Console.WriteLine(player.Name);
-            }
-        }
+        ////This method gets inherited but can be overridded
+        //public virtual void ListPlayers()
+        //{
+        //    //Looping thru the Players property
+        //    foreach (Player player in Players)
+        //    {
+        //        Console.WriteLine(player.Name);
+        //    }
+        //}
            
 
     }

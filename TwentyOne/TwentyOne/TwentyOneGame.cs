@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace TwentyOne
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game//IWalkAway
     {
         public override void Play()
         {
@@ -18,7 +18,7 @@ namespace TwentyOne
 
             base.ListPlayers();
         }
-        
+
     }
 
 }

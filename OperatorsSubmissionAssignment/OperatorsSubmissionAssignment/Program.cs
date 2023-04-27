@@ -12,7 +12,9 @@ namespace OperatorsSubmissionAssignment
             Employee employee1 = new Employee();
             employee1.employeeID = 2;
             //Complare the objects using the logic of the Equals method
-            Console.WriteLine(employee.employeeID.Equals(employee1.employeeID) ? "Employee Id's are different." : "Employee Id's match.");
+            Console.WriteLine(employee.employeeID == employee1.employeeID);
+            Console.WriteLine(employee.employeeID != employee1.employeeID);
+
 
             Console.ReadLine();
           

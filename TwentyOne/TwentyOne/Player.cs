@@ -13,6 +13,11 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
 
+
+
+
+
+
         //Overload an operator method
 
         public static Game operator +(Game game, Player player)
