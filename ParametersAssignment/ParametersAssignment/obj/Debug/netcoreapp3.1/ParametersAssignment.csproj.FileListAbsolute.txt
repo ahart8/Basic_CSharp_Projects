@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\bin\Debug\netcoreapp3.1\ParametersAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ParametersAssignment\ParametersAssignment\obj\Debug\netcoreapp3.1\ParametersAssignment.genruntimeconfig.cache
