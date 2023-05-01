@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwentyOne
 {
-    //interface IWalkAway
-    //{
-    //}
+    interface IWalkAway
+    {
+    }
 }

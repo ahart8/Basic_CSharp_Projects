@@ -11,19 +11,21 @@ namespace TwentyOne
         //Properties - base or abstract class make is so the class is not longer able to be instantiated
         public List<Player> Players { get; set; } 
         public string Name { get; set; } //Name of the game
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set; }//dictionary of players and bets
+
+
      //Abstrack method statest that any method inheriting this class must use this method or it will not compile
         public abstract void Play();
         
         ////This method gets inherited but can be overridded
-        //public virtual void ListPlayers()
-        //{
-        //    //Looping thru the Players property
-        //    foreach (Player player in Players)
-        //    {
-        //        Console.WriteLine(player.Name);
-        //    }
-        //}
+        public virtual void ListPlayers()
+        {
+         //Looping thru the Players property
+           foreach (Player player in Players)
+           {
+               Console.WriteLine(player.Name);
+            }
+        }
            
 
     }

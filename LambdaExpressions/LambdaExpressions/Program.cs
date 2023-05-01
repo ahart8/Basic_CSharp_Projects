@@ -32,12 +32,12 @@ namespace LambdaExpressions
 
             emp2.FirstName = "Joe";
             emp2.LastName = "Smith";
-            emp2.Id = 12;
+            emp2.Id = 2;
             employeeList.Add(emp2);
 
             emp3.FirstName = "Shelly";
             emp3.LastName = "Phipps";
-            emp3.Id = 12;
+            emp3.Id = 1;
             employeeList.Add(emp3);
                         
             emp4.FirstName = "Jim";
@@ -57,7 +57,7 @@ namespace LambdaExpressions
 
             emp7.FirstName = "Bob";
             emp7.LastName = "Rice";
-            emp7.Id = 12;
+            emp7.Id = 8;
             employeeList.Add(emp7);
 
             emp8.FirstName = "Carl";
@@ -73,22 +73,28 @@ namespace LambdaExpressions
             int counter = 0;
             foreach (Employee employee in employeeList)
             {
-                joeList.Add(employee);
-                joeList2.Add(employee);
-                idList.Add(employee);
+                              
                 
                 if (employee.FirstName=="Joe")
                 {
                     Console.WriteLine(employee.FirstName +" "+ employee.LastName + " "+employee.Id);
+                    joeList.Add(employee);
                 }
                 
                 counter++;
             }
 
+           foreach(Employee employee in joeList2)
+            {
+                Console.WriteLine(employee.FirstName + " " + employee.LastName + " " + employee.Id);
+            }
 
-            Console.WriteLine(joeList);
-            Console.WriteLine(joeList2);
-            Console.WriteLine(idList);
+
+            foreach (Employee employee in idList)
+            {
+                Console.WriteLine(employee.FirstName + " " + employee.LastName + " " + employee.Id);
+            }
+      
             Console.ReadLine();
         }
               
