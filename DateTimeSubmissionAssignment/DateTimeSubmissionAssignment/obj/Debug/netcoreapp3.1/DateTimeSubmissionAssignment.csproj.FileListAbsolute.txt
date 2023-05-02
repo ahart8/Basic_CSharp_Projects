@@ -1,0 +1,12 @@
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.exe
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.deps.json
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.runtimeconfig.json
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.dll
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.pdb
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.AssemblyInfo.cs
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.dll
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.pdb
+C:\Users\amy\source\repos\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssignment.genruntimeconfig.cache
