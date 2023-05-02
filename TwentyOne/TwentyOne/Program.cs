@@ -14,9 +14,17 @@ namespace TwentyOne
         {
             //string text = "Here is some text";
             //File.WriteAllText(@"C:\Users\amy\Desktop\log.txt", text);
-           // string text =File.ReadAllText(@"C:\Users\amy\Desktop\log.txt");
+            // string text =File.ReadAllText(@"C:\Users\amy\Desktop\log.txt");
             //Console.Write(text);
 
+            //Date time is a value type it is a struct meaning it is not nullable
+            // DateTime yearOfBirth = new DateTime(1971, 5, 4, 8, 32, 45);
+            //Time span object 
+           // DateTime yearOfGraduation = new DateTime(1989, 6, 1, 16, 34, 22);
+
+            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+
+           DateTime
 
             Console.Write("Welcome to the Grand Hotel and Casino.  Let's start by telling me your name:");
             //get the name of what is going to become the 21 player.

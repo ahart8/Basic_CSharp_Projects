@@ -23,6 +23,7 @@ namespace TwentyOne
             //Need to make sure that memory gets disposed using is used - true on the streamwriter appends to the log
             using (StreamWriter file = new StreamWriter(@"C:\Users\amy\Desktop\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }//once this curly bracket is reached resources are disposed. This is what the using does
             Deck.Cards.RemoveAt(0);
