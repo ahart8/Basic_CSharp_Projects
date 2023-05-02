@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amy\\source\\repos\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj": {}
+    "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amy\\source\\repos\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj": {
+    "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amy\\source\\repos\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj",
         "projectName": "DateTimeSubmissionAssignment",
-        "projectPath": "C:\\Users\\amy\\source\\repos\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj",
+        "projectPath": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment.csproj",
         "packagesPath": "C:\\Users\\amy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amy\\source\\repos\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\obj\\",
+        "outputPath": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\DateTimeSubmissionAssignment\\DateTimeSubmissionAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
