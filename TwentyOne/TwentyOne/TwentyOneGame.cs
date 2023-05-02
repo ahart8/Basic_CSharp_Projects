@@ -5,13 +5,15 @@ using System.Linq;
 using System.Threading;
 
 namespace TwentyOne
-{
+{ 
+    //Twenty one game is inheriting from the game class
     public class TwentyOneGame : Game, IWalkAway
     {
         //This property is specific to the 21 game
         public TwentyOneDealer Dealer { get; set; }
         
-        
+        //The override modifier is required to extend or modify the abstract or virtual implementation of an inherited method,propery, indexer or event
+        //The Play method must be used since it is an herited method from an abstract class
         public override void Play()
         {
             //Instantiate a dealer
@@ -27,9 +29,13 @@ namespace TwentyOne
                 Dealer.Hand = new List<Card>();
                 Dealer.Stay = false;
                 Dealer.Deck = new Deck();
-                Console.WriteLine("Place your bet.");
+                Dealer.Deck.Shuffle();
+
+                Console.Write
+                ("Place your bet.");
                
                 //Need to loop through each player so that they can place a bet.
+                
                 foreach (Player player in Players)
                 {
                     int bet = Convert.ToInt32(Console.ReadLine());
@@ -79,6 +85,7 @@ namespace TwentyOne
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -112,11 +119,14 @@ namespace TwentyOne
                         if(answer=="yes" || answer == "yeah")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;//just ends the void function
                         }
+
                     }
                 }
             }

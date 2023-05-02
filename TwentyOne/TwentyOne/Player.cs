@@ -19,8 +19,8 @@ namespace TwentyOne
             Balance = beginningBalance;
             Name = name;
         }
-
-        public List<Card> Hand { get; set; }
+        private List<Card> _hand = new List<Card>();
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
@@ -29,9 +29,9 @@ namespace TwentyOne
         //Bet method should be added to the player class becaue it is the player that is doing the betting and we should keep that logic with the player entity
         public bool Bet(int amount)
         {
-                if (Balance - amount>0)
+                if (Balance - amount<0)
             {
-                Console.WriteLine("You do not have enough to place a bet that size");
+                Console.Write("You do not have enough to place a bet that size");
                 return false; 
             }
             else
@@ -45,6 +45,7 @@ namespace TwentyOne
         //Overload an operator method
         public static Game operator +(Game game, Player player)
         {
+            //game.players is a list and you have to instanciate a list or it breaks when you want to add something to it
             game.Players.Add(player);
             return game;
         }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Threading;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -11,16 +12,21 @@ namespace TwentyOne
         //The main method is the entrance point of the program
         static void Main(string[] args)
         {
+            //string text = "Here is some text";
+            //File.WriteAllText(@"C:\Users\amy\Desktop\log.txt", text);
+           // string text =File.ReadAllText(@"C:\Users\amy\Desktop\log.txt");
+            //Console.Write(text);
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name. Let's start by telling me your name:");
+
+            Console.Write("Welcome to the Grand Hotel and Casino.  Let's start by telling me your name:");
             //get the name of what is going to become the 21 player.
             string playerName = Console.ReadLine();
             //How much money does the player have to play with.
-            Console.WriteLine("And how much money did you bring today?");
+            Console.Write("And how much money did you bring today?");
             //Later this information will be stored in a database
             int bank = Convert.ToInt32(Console.ReadLine());
             //Ask the user if they want to play - {0} is a string formatting where a variable place holder is put into curly braces. That is where thier name will display
-            Console.WriteLine("Hello,{0}. Would you like to join a game of 21 right now?,", playerName);
+            Console.Write("Hello,{0}. Would you like to join a game of 21 right now?,", playerName);
             //Get the answer and check it. We use to lower so that it is easier to check for the answers. 
             string answer = Console.ReadLine().ToLower();
            

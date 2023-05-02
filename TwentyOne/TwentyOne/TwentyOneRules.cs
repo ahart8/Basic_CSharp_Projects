@@ -25,7 +25,7 @@ namespace TwentyOne
             [Face.Jack] = 10,
             [Face.Queen] = 10,
             [Face.King] = 10,
-            [Face.Ace]=1,
+            [Face.Ace]=1
         };
 
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
