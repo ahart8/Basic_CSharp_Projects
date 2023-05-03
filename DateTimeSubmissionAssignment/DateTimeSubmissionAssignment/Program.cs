@@ -7,7 +7,7 @@ namespace DateTimeSubmissionAssignment
         static void Main(string[] args)
         {
             //Print the current date time to the screen
-            Console.WriteLine("The current date and time is" ,DateTime.Now);
+            Console.WriteLine("The current date and time is: " + DateTime.Now);
             //Prompt the user to imput hours to add 
             Console.Write("Enter a number: ");
             //Get number of hours to add to the current date time from the user
