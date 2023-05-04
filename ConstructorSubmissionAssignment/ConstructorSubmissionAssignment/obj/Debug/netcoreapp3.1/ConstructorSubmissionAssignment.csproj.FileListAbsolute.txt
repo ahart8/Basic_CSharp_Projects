@@ -1,0 +1,13 @@
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.AssemblyInfo.cs
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.exe
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.deps.json
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.runtimeconfig.json
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.dll
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.pdb
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.dll
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.pdb
+C:\Users\amy\source\repos\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssignment.genruntimeconfig.cache

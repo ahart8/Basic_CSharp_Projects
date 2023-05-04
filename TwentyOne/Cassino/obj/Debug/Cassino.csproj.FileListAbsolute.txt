@@ -1,0 +1,6 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\bin\Debug\Cassino.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\bin\Debug\Cassino.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\obj\Debug\Cassino.csproj.AssemblyReference.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\obj\Debug\Cassino.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\obj\Debug\Cassino.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\TwentyOne\Cassino\obj\Debug\Cassino.pdb
