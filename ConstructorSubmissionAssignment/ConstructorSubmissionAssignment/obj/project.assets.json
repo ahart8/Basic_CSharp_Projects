@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amy\\source\\repos\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment.csproj",
       "projectName": "ConstructorSubmissionAssignment",
-      "projectPath": "C:\\Users\\amy\\source\\repos\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment.csproj",
+      "projectPath": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment.csproj",
       "packagesPath": "C:\\Users\\amy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amy\\source\\repos\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\obj\\",
+      "outputPath": "C:\\Users\\amy\\Documents\\Basic_CSharp_Projects\\ConstructorSubmissionAssignment\\ConstructorSubmissionAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
