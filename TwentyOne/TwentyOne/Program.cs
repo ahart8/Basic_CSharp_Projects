@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Linq;
+using System.Data;
+using System.Data.SqlClient;
 using System.Threading;
 using System.IO;
 using Cassino;
@@ -40,19 +41,30 @@ namespace TwentyOne
             const string cassinoName = "Grand Hotel and Cassino";
             //gui global unique identifier - odds of getting a duplicated gui is so slim
             
-
-
-
-
             Console.Write("Welcome to the {0}.  Let's start by telling me your name:",cassinoName);
             //get the name of what is going to become the 21 player.
             string playerName = Console.ReadLine();
             //How much money does the player have to play with.
-            Console.Write("And how much money did you bring today?");
             //Later this information will be stored in a database
-            int bank = Convert.ToInt32(Console.ReadLine());
+           
+
+            //Any time you are relying on user input you have to put in checks like this
+            bool validAnswer = false;
+            int bank = 0;
+
+            while (!validAnswer)
+            {
+                Console.Write("And how much money did you bring today?: ");
+                //Takes a string and has an out parameter sends it back over to the bank
+             validAnswer = int.TryParse(Console.ReadLine(),out bank);
+                if (!validAnswer) Console.Write("Please enter digits only. No decimals");
+
+            }
+                          
+            
+            
             //Ask the user if they want to play - {0} is a string formatting where a variable place holder is put into curly braces. That is where thier name will display
-            Console.Write("Hello,{0}. Would you like to join a game of 21 right now?,", playerName);
+            Console.Write("Hello,{0}. Would you like to join a game of 21 right now?: ", playerName);
             //Get the answer and check it. We use to lower so that it is easier to check for the answers. 
             string answer = Console.ReadLine().ToLower();
            
@@ -77,9 +89,27 @@ namespace TwentyOne
                 //They have to stay actively playing and have enough money to play
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    //Separating play from the main method helps to keep the code cleaner
-                    game.Play();
-
+                    try
+                    {
+                        //Separating play from the main method helps to keep the code cleaner
+                        game.Play();
+                    }
+                    
+                    catch (FraudException ex)
+                    {
+                        Console.WriteLine("Security kick this person out");
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("An error occurred please contact your system adminstrator");
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return;
+                    }
+                   
                 }
                 //When the player is no longer playing the game we want to subtract him from the game
                 game -= player;
@@ -90,6 +120,34 @@ namespace TwentyOne
             //Goes here if they did not answer yes 
             Console.WriteLine("Feel fee tolook around the casino. Bye for now.");
         }
+
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = @"Data Source = (localdb)\ProjectsV13; Initial Catalog = TwentyOneGame; Integrated Security = True; Connect Timeout = 30;Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False";
+            
+            string queryString =@"INSERT INTO Exceptions (ExceptionType,ExceptionMessage,TimeStamp)VALUES (@ExceptionType,@ExceptionMessage,@TimeStamp)";//Place holder for the values to prevent sql injections
+                                                                                   //Using is for manageing and controling memory with external resources. Turning in on and off when we need                                              to use it.
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+
+                SqlCommand command = new SqlCommand(queryString, connection);
+                //Add the data type inside of the sql table
+                command.Parameters.Add("@ExceptionType",SqlDbType.VarChar);//By naming its datatype we are protecting against sql injection
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();//Returns a data type type not a string
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                //Open the connection
+                connection.Open();
+                //Its an insert statement so it is a non-query
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
+
      
     }
 }

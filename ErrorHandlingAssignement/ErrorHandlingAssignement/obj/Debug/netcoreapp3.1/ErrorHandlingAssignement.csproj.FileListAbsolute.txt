@@ -1,0 +1,13 @@
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.AssemblyInfoInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.AssemblyInfo.cs
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.csproj.CoreCompileInputs.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.exe
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.deps.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.runtimeconfig.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.runtimeconfig.dev.json
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\bin\Debug\netcoreapp3.1\ErrorHandlingAssignement.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.dll
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.pdb
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.genruntimeconfig.cache
+C:\Users\amy\Documents\Basic_CSharp_Projects\ErrorHandlingAssignement\ErrorHandlingAssignement\obj\Debug\netcoreapp3.1\ErrorHandlingAssignement.csproj.AssemblyReference.cache

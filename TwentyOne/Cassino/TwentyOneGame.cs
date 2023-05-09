@@ -32,14 +32,23 @@ namespace Cassino.TwentyOne
                 Dealer.Deck = new Deck();
                 Dealer.Deck.Shuffle();
 
-                Console.Write
-                ("Place your bet.");
-               
-                //Need to loop through each player so that they can place a bet.
-                
+
+            //Need to loop through each player so that they can place a bet.
                 foreach (Player player in Players)
                 {
-                    int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while(!validAnswer)
+                {
+                    Console.Write("Place your bet!: ");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");
+                }
+                    if (bet < 0)
+                {
+                    throw new FraudException();
+                }
+                   
                     bool successfullyBet = player.Bet(bet);
                     if (!successfullyBet)
                     {
@@ -94,12 +103,12 @@ namespace Cassino.TwentyOne
             {
                 while (!player.Stay)
                 {
-                    Console.WriteLine("Your cards ard:");
+                    Console.WriteLine("Your cards are: ");
                     foreach(Card card in player.Hand)
                     {
                         Console.Write("{0}", card.ToString());
                     }
-                    Console.WriteLine("\n\nHit or stay?");
+                    Console.Write("\n\nHit or stay?: ");
                     string answer = Console.ReadLine().ToLower();
                     if(answer=="stay")
                     {
@@ -115,7 +124,7 @@ namespace Cassino.TwentyOne
                     {
                         Dealer.Balance += Bets[player];
                         Console.WriteLine("{0} Busted! You loose your bet of {1}. Your balanes is now {2}.", player.Name, Bets[player],player.Balance);
-                        Console.WriteLine("Do you want to play again?");
+                        Console.WriteLine("Do you want to play again?: ");
                         answer = Console.ReadLine().ToLower();
                         if(answer=="yes" || answer == "yeah")
                         {
