@@ -7,7 +7,7 @@
  This repository is a collection of coding projects and assignments that I completed in Tech Academy's C# and .Net course.
 ## Projects
 - [Basic C# Projects](./)
-- [Calculator](./Calculator)
+- [Twenty One Game](./TwentyOne)
 - [Pizza Project](./Pizza_Project)
 - [TicTacToe](./TicTacToe)
 
