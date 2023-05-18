@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    var actualServerTime = DateTime.Now.ToShortTimeString(); 
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="text-center">
+     <h2> I can display the actual server time in different ways</h2>
+    <p color="darkblue">First Way: The actual server time is : @DateTime.Now.ToShortTimeString()</p>
+</div>
+<div class="text-center">
+       <p>Second Way: The actual server time is : @actualServerTime</p>
+</div>
