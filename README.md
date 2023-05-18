@@ -1,12 +1,12 @@
-# Basic_CSharp_Projects
-##This repositroy will hold coding projects for the C# and .Net course
+
+
 ![](https://github.com/ahart8/Basic_CSharp_Projects/blob/main/github-header-image.png)
 
 
 
- This repository is a collection of coding projects and assignments that I completed in Tech Academy's JavaSript course.
+ This repository is a collection of coding projects and assignments that I completed in Tech Academy's C# and .Net course.
 ## Projects
-- [Basic Javascript Projects](./Basic%20JavaScript%20Projects)
+- [Basic C# Projects](./)
 - [Calculator](./Calculator)
 - [Pizza Project](./Pizza_Project)
 - [TicTacToe](./TicTacToe)
