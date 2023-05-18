@@ -1,6 +1,6 @@
 # Basic_CSharp_Projects
 ##This repositroy will hold coding projects for the C# and .Net course
-![](/ahart8/Basic_CSharp_Projects/blob/main/github-header-image.png)
+![](https://github.com/ahart8/Basic_CSharp_Projects/blob/main/github-header-image.png)
 
 
 
