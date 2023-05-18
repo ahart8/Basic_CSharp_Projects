@@ -2,7 +2,7 @@
 ##This repositroy will hold coding projects for the C# and .Net course
 ![](/ahart8/Basic_CSharp_Projects/blob/main/github-header-image.png)
 
-# JavaScript_Projects
+
 
  This repository is a collection of coding projects and assignments that I completed in Tech Academy's JavaSript course.
 ## Projects
