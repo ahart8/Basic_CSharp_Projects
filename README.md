@@ -8,8 +8,10 @@
 ## Projects
 - [Basic C# Projects](./)
 - [Twenty One Game](./TwentyOne)
-- [Pizza Project](./Pizza_Project)
-- [TicTacToe](./TicTacToe)
+- [Newsletter App MVC](./NewsletterAppMVC)
+- [Daily Report Assignment](./DailyReportAssignment)
+- [Car Insurance Approval](./CarInsuranceApproval)
+- [Tech Academy Students MVC](./TechAcadStuentsMVC)
 
 ### Basic JavaScript Projects
 This folder contains all of the coding assigments and excercises that I worked on in the JavaScript course.
