@@ -5,7 +5,7 @@
 
 
  This repository is a collection of coding projects and assignments that I completed in Tech Academy's C# and .Net course.
-## Projects
+## C# Projects
 - [TwentyOne Game](./TwentyOne)
 - [Newsletter App MVC](./NewsletterAppMVC)
 - [Daily Report Assignment](./DailyReportAssignment)
