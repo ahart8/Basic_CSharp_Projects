@@ -6,21 +6,22 @@
 
  This repository is a collection of coding projects and assignments that I completed in Tech Academy's C# and .Net course.
 ## Projects
-- [Basic C# Projects](./)
-- [Twenty One Game](./TwentyOne)
+- [TwentyOne Game](./TwentyOne)
 - [Newsletter App MVC](./NewsletterAppMVC)
 - [Daily Report Assignment](./DailyReportAssignment)
 - [Car Insurance Approval](./CarInsuranceApproval)
 - [Tech Academy Students MVC](./TechAcadStuentsMVC)
 
-### Basic JavaScript Projects
-This folder contains all of the coding assigments and excercises that I worked on in the JavaScript course.
+### Twenty-One Game
+The twenty-one game project is a fully functional twenty one game that demonstrates all of the basic concepts of C# and object orented programming.
  
-### Pizza Menu
-This project is a pizza menu. The user is able to select a pizza size and toppings. The program calculates and cost and displays it back to the user.
+### Newsletter App
 
-### Tic-Tac-Toe Game
-Play tic-tac-toe against the computer!
 
-### Calculator
-This is a basic 4 function calculator. Use it to add, subtract, multiply and divide.
+### Daily Report Assignment
+
+
+### Car Insruance Approval
+
+### Tech Academy Students MVC
+
