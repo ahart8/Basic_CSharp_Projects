@@ -22,6 +22,7 @@ The twenty-one game project is a fully functional twenty one game that demonstra
 
 
 ### Car Insruance Approval
+This project is an MVC web application that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business log. There is also an admin page that allows staff to view all of the quotes that have been issued. 
 
 ### Tech Academy Students MVC
 
