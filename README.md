@@ -16,14 +16,15 @@
 The twenty-one game project is a fully functional twenty one game that demonstrates all of the basic concepts of C# and object orented programming.
  
 ### Newsletter App
-The newsletter app is an mvc project that allows users to subscribe or unsubscribe to a newsletter. 
+The newsletter application is an mvc project that allows users to subscribe or unsubscribe to a newsletter. 
 
 
 ### Daily Report Assignment
-
+The daily report assignment is a c# console app that prompts users about their daily assignments.
 
 ### Car Insruance Approval
 This project is an MVC web application that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business log. There is also an admin page that allows staff to view all of the quotes that have been issued. 
 
 ### Tech Academy Students MVC
+The tech academy students mvc program that displays contact information. 
 
