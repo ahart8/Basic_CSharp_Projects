@@ -16,6 +16,7 @@
 The twenty-one game project is a fully functional twenty one game that demonstrates all of the basic concepts of C# and object orented programming.
  
 ### Newsletter App
+The newsletter app is an mvc project that allows users to subscribe or unsubscribe to a newsletter. 
 
 
 ### Daily Report Assignment
